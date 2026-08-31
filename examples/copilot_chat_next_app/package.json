@@ -13,7 +13,7 @@
     "postinstall": "next build"
   },
   "dependencies": {
-    "ai": "^4.3.19",
+    "ai": "^7.0.87",
     "lightweight-charts": "^5.0.8",
     "next": "15.2.6",
     "openai": "^4.104.0",
